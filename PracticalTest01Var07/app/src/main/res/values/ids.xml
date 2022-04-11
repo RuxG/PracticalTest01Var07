@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="row1_collumn1" type="id" />
+    <item name="row1_collumn2" type="id" />
+    <item name="row2_collumn1" type="id" />
+    <item name="row2_collumn2" type="id" />
+</resources>
